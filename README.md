@@ -1,4 +1,4 @@
-####Automation Framework for testing using selenium and pytest 
+## Automation Framework for testing using selenium and pytest 
 
 ### Project Structure
 ```
