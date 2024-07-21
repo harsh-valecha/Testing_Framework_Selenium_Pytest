@@ -16,6 +16,7 @@
 │   ├── driver_factory.py
 ├── reports/
 │   ├── report.html
+├── screenshots/
 ├── requirements.txt
 ├── pytest.ini
 ```
