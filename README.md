@@ -160,4 +160,9 @@ pytest
 
 This command will execute all the tests in the `tests` directory and generate an HTML report at `reports/report.html`.
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
 By following this structure, you have a modular, maintainable, and scalable test automation framework. You can extend it by adding more page objects, utilities, and test cases as needed.
